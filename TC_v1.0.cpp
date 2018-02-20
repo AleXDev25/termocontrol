@@ -33,7 +33,7 @@ boolean disp_scrl = 0;
 uint8_t mode = 0;
 uint8_t sp = 2;
 
-unsigned long SENS_prevMillis = 0;        // Многозадачность
+unsigned long SENS_prevMillis = 0;
 const long SENS_interval = 5000;
 unsigned long DISP_SCRL_prevMillis = 0;       
 const long DISP_SCRL_interval = 6000;
